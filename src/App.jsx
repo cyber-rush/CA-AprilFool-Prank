@@ -1,8 +1,10 @@
+import Form from "./components/Form"
+import Header from "./components/Header"
 
 const App = () => {
   return (
-    <div className="text-3xl">
-      App
+    <div>
+      <Form />
     </div>
   )
 }
